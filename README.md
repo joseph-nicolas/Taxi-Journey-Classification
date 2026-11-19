@@ -30,7 +30,7 @@ This project is built using Python and utilizes the following core libraries:
 To run the notebooks, you will need to install the required dependencies:
 `pip install pandas numpy scikit-learn matplotlib seaborn folium`
 
-*Note: The datasets (`RTA_Anonymous_Journies.csv` and `Traffic_Incidents.csv`) must be placed in the same directory as the notebooks for the notebooks to run properly.*
+*Note: The datasets (`RTA_Anonymous_Journies.csv` and `Traffic_Incidents.csv`) must be placed in the same directory as the notebooks*
 
 ## 👥 Authors
 *   **Yasser**
