@@ -32,7 +32,7 @@ To run the notebooks, you will need to install the required dependencies:
 
 *Note: The datasets (`RTA_Anonymous_Journies.csv` and `Traffic_Incidents.csv`) must be placed in the same directory as the notebooks*
 
-## 👥 Authors
+## Authors
 *   **Yasser**
 *   **Joseph**
 *   **Liana**
