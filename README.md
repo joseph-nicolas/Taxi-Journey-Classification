@@ -1,6 +1,4 @@
 # Taxi Journey Classification
-
-## 📖 Overview
 This project uses machine learning to classify anonymous taxi journeys as short or long trips. By training Support Vector Machine (SVM) and k-Nearest Neighbors (k-NN) models on geographical coordinates and distance data, we can accurately predict trip types and better understand transport patterns.
 
 ## ⚙️ How It Works
